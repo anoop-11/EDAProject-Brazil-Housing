@@ -1,3 +1,4 @@
+## Project : Brazil Housing
 #####  Title:- Brazil Housing Analysis
 #####  Tool Used :
 ##### (i)  EDA (Exploratory Data Analysis) 
@@ -6,9 +7,9 @@
 ## Description :
 ##### • Castro Brazila Inc., a top real estate management firm with a nationwide presence in Brazil, wishes to help people choose an alternate city to relocate to.
 ##### • Several companies are allowing at least 40% of their employees to work from home permanently.
-###### • Rio-De-Janeiro and Sao Paulo are among the most expensive cities to live in Brazil.
-###### • Many people from these cities are considering relocating to a different city to live and work remotely
-###### • As a data analyst, help the firm figure out suitable cities for relocation for bachelors. For mid-sized families, and Large families.
+##### • Rio-De-Janeiro and Sao Paulo are among the most expensive cities to live in Brazil.
+##### • Many people from these cities are considering relocating to a different city to live and work remotely
+##### • As a data analyst, help the firm figure out suitable cities for relocation for bachelors. For mid-sized families, and Large families.
 
 ## Approach :
 ##### • Understanding the Data
